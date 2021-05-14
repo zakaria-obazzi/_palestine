@@ -3,6 +3,8 @@ lmn = turtle.Screen()
 lmn.bgcolor("grey")
 h = turtle.Turtle()
 h.speed(700)
+h.color('grey')
+h.goto(-120,0)
 oa = 7
 for i in range (100):
 	h.pensize(1)
