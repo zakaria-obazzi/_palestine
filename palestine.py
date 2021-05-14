@@ -1,4 +1,6 @@
 import turtle
+lmn = turtle.Screen()
+lmn.bgcolor("grey")
 h = turtle.Turtle()
 h.speed(700)
 oa = 7
